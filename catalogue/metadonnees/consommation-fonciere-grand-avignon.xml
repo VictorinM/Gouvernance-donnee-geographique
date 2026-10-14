@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd"
+                 xmlns:gco="http://www.isotc211.org/2005/gco"
+                 xmlns:gml="http://www.opengis.net/gml">
+  <gmd:fileIdentifier><gco:CharacterString>consommation-fonciere-grand-avignon</gco:CharacterString></gmd:fileIdentifier>
+  <gmd:language><gco:CharacterString>fre</gco:CharacterString></gmd:language>
+  <gmd:characterSet><gmd:MD_CharacterSetCode codeListValue="utf8"
+     codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"/></gmd:characterSet>
+  <gmd:hierarchyLevel><gmd:MD_ScopeCode codeListValue="dataset"
+     codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"/></gmd:hierarchyLevel>
+  <gmd:contact>
+    <gmd:CI_ResponsibleParty>
+      <gmd:individualName><gco:CharacterString>Victorine Maximilienne Djetcheu Toko</gco:CharacterString></gmd:individualName>
+      <gmd:contactInfo><gmd:CI_Contact><gmd:address><gmd:CI_Address>
+        <gmd:electronicMailAddress><gco:CharacterString>tokomaximilienne@gmail.com</gco:CharacterString></gmd:electronicMailAddress>
+      </gmd:CI_Address></gmd:address></gmd:CI_Contact></gmd:contactInfo>
+      <gmd:role><gmd:CI_RoleCode codeListValue="pointOfContact"
+         codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_RoleCode"/></gmd:role>
+    </gmd:CI_ResponsibleParty>
+  </gmd:contact>
+  <gmd:dateStamp><gco:Date>2026-10-13</gco:Date></gmd:dateStamp>
+  <gmd:metadataStandardName><gco:CharacterString>ISO 19115:2003/19139</gco:CharacterString></gmd:metadataStandardName>
+  <gmd:metadataStandardVersion><gco:CharacterString>1.0</gco:CharacterString></gmd:metadataStandardVersion>
+  <gmd:referenceSystemInfo><gmd:MD_ReferenceSystem><gmd:referenceSystemIdentifier>
+    <gmd:RS_Identifier>
+      <gmd:code><gco:CharacterString>2154</gco:CharacterString></gmd:code>
+      <gmd:codeSpace><gco:CharacterString>EPSG</gco:CharacterString></gmd:codeSpace>
+    </gmd:RS_Identifier>
+  </gmd:referenceSystemIdentifier></gmd:MD_ReferenceSystem></gmd:referenceSystemInfo>
+  <gmd:identificationInfo>
+    <gmd:MD_DataIdentification>
+      <gmd:citation><gmd:CI_Citation>
+        <gmd:title><gco:CharacterString>Consommation d&#x27;espaces du Grand Avignon, 2012 a 2025</gco:CharacterString></gmd:title>
+        <gmd:date><gmd:CI_Date>
+          <gmd:date><gco:Date>2026-10-13</gco:Date></gmd:date>
+          <gmd:dateType><gmd:CI_DateTypeCode codeListValue="publication"
+             codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"/></gmd:dateType>
+        </gmd:CI_Date></gmd:date>
+      </gmd:CI_Citation></gmd:citation>
+      <gmd:abstract><gco:CharacterString>Consommation annuelle d&#x27;espaces naturels, agricoles et forestiers des 16 communes du Grand Avignon, par destination. Donnees non geographiques, rattachees aux communes par le code INSEE.</gco:CharacterString></gmd:abstract>
+      <gmd:pointOfContact><gmd:CI_ResponsibleParty>
+        <gmd:individualName><gco:CharacterString>Victorine Maximilienne Djetcheu Toko</gco:CharacterString></gmd:individualName>
+        <gmd:role><gmd:CI_RoleCode codeListValue="owner"
+           codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_RoleCode"/></gmd:role>
+      </gmd:CI_ResponsibleParty></gmd:pointOfContact>
+      <gmd:descriptiveKeywords><gmd:MD_Keywords>
+        <gmd:keyword><gco:CharacterString>Usage des sols</gco:CharacterString></gmd:keyword>
+        <gmd:type><gmd:MD_KeywordTypeCode codeListValue="theme"
+           codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"/></gmd:type>
+        <gmd:thesaurusName><gmd:CI_Citation>
+          <gmd:title><gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString></gmd:title>
+        </gmd:CI_Citation></gmd:thesaurusName>
+      </gmd:MD_Keywords></gmd:descriptiveKeywords>
+      <gmd:resourceConstraints><gmd:MD_LegalConstraints>
+        <gmd:useLimitation><gco:CharacterString>Reutilisation libre sous Licence Ouverte 2.0, Etalab.</gco:CharacterString></gmd:useLimitation>
+        <gmd:accessConstraints><gmd:MD_RestrictionCode codeListValue="otherRestrictions"
+           codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode"/></gmd:accessConstraints>
+        <gmd:otherConstraints><gco:CharacterString>Pas de restriction d'acces public, Licence Ouverte 2.0, Etalab.</gco:CharacterString></gmd:otherConstraints>
+      </gmd:MD_LegalConstraints></gmd:resourceConstraints>
+      <gmd:language><gco:CharacterString>fre</gco:CharacterString></gmd:language>
+      <gmd:topicCategory><gmd:MD_TopicCategoryCode>planningCadastre</gmd:MD_TopicCategoryCode></gmd:topicCategory>
+      <gmd:extent><gmd:EX_Extent>
+        <gmd:geographicElement><gmd:EX_GeographicBoundingBox>
+          <gmd:westBoundLongitude><gco:Decimal>4.619</gco:Decimal></gmd:westBoundLongitude>
+          <gmd:eastBoundLongitude><gco:Decimal>5.06949</gco:Decimal></gmd:eastBoundLongitude>
+          <gmd:southBoundLatitude><gco:Decimal>43.84997</gco:Decimal></gmd:southBoundLatitude>
+          <gmd:northBoundLatitude><gco:Decimal>44.07517</gco:Decimal></gmd:northBoundLatitude>
+        </gmd:EX_GeographicBoundingBox></gmd:geographicElement>
+        <gmd:temporalElement><gmd:EX_TemporalExtent><gmd:extent>
+          <gml:TimePeriod gml:id="T-consommation-fonciere-grand-avignon">
+            <gml:beginPosition>2012</gml:beginPosition>
+            <gml:endPosition>2025</gml:endPosition>
+          </gml:TimePeriod>
+        </gmd:extent></gmd:EX_TemporalExtent></gmd:temporalElement>
+      </gmd:EX_Extent></gmd:extent>
+    </gmd:MD_DataIdentification>
+  </gmd:identificationInfo>
+  <gmd:dataQualityInfo><gmd:DQ_DataQuality>
+    <gmd:scope><gmd:DQ_Scope><gmd:level><gmd:MD_ScopeCode codeListValue="dataset"
+       codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"/></gmd:level></gmd:DQ_Scope></gmd:scope>
+    <gmd:lineage><gmd:LI_Lineage><gmd:statement>
+      <gco:CharacterString>Portail national de l&#x27;artificialisation des sols, produit par le Cerema. Filtre sur les 16 communes et remis en forme par annee.</gco:CharacterString>
+    </gmd:statement></gmd:LI_Lineage></gmd:lineage>
+  </gmd:DQ_DataQuality></gmd:dataQualityInfo>
+</gmd:MD_Metadata>
